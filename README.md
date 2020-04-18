@@ -2,21 +2,20 @@
 
 С помощью ```VK API``` и  <a href='https://xkcd.com/'>сайта с комиксами <strong>xkcd</strong></a> мы будем публиковать комиксы в группу в ```vk```. С помощью данного скрипта, будем брать рандомный комикс и публиковать его. 
 
-## Как установить 
+# How to install
+Python3 have to be already installed. Then use pip (or pip3, there is a contravention with Python2) to install dependencies: :<br>
 
-Откройте на своем компьютере ```bash``` и с помощью него, скачайте следующей командой репозиторий:
-<br>
-```git clone https://github.com/djeck1432/vk_publish_comics.git```
-<br>
-После того, как вы скачали репозиторий, откройте папку следующей командой: 
-<br>
-``` cd vk_publish_comics ```
-<br>
-Теперь, нужно установить все необходимые библиотеки и модули: 
-<br>
-``` pip install -r requirements.txt ```
-<br>
-Теперь - мы готовы к работе скрипта. 
+``` git clone https://github.com/djeck1432/vk_publish_comics.git ```
+
+After you downloaded the repository open a folder ```vk_publish_comics``` using next command: <br>
+
+```cd vk_publish_comics```
+
+Now all of the required libraries and modules have to be installed:<br>
+
+```pip install -r requirements.txt ```<br>
+
+Now we are ready for the script .
 
 ## Как запустить скрипт 
 
